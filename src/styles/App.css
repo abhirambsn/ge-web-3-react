@@ -53,7 +53,7 @@ header{
 
 .right{
   display: flex;
-  background: black;
+  background: linear-gradient(#0F2027, #203A43, #2C5364);
   border-radius: 16px;
   padding: 12px 20px;
   height: 99%;
